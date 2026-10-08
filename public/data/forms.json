@@ -1,0 +1,1607 @@
+[
+  {
+    "id": "F-001",
+    "manualNo": "[1]",
+    "name": "교복선정위원회 구성 기안",
+    "stage": "준비",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "committee"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-002",
+    "manualNo": "[1-1]",
+    "name": "위원 수락 및 확인서",
+    "stage": "준비",
+    "type": "확인서",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-07",
+      "committee"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-003",
+    "manualNo": "[1-2]",
+    "name": "위원 청렴 및 보안 서약서",
+    "stage": "준비",
+    "type": "서약서",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-07",
+      "committee"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-004",
+    "manualNo": "[2]",
+    "name": "구매 추진 계획 수립",
+    "stage": "준비",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "B-01",
+      "B-03",
+      "B-04",
+      "B-05"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-005",
+    "manualNo": "[2-1]",
+    "name": "구매 추진 계획안",
+    "stage": "준비",
+    "type": "계획서",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "B-01",
+      "B-03",
+      "B-04",
+      "B-05"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-006",
+    "manualNo": "[3]",
+    "name": "학교운영위원회 심의(안)",
+    "stage": "준비",
+    "type": "심의안",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "B-01",
+      "B-03",
+      "B-04",
+      "B-05"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-007",
+    "manualNo": "[6]",
+    "name": "교복구매 구매 요청",
+    "stage": "입찰",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open",
+      "quote1",
+      "quote2"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "B-01",
+      "B-06",
+      "B-07"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-008",
+    "manualNo": "[6-1]",
+    "name": "교복 사양서",
+    "stage": "입찰",
+    "type": "규격서",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open",
+      "quote1",
+      "quote2"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "B-01",
+      "B-06",
+      "B-07"
+    ],
+    "outputModes": [
+      "pdf"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-009",
+    "manualNo": "[7]",
+    "name": "기초금액 및 계약방법 결정",
+    "stage": "입찰",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open",
+      "quote1",
+      "quote2"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "B-01",
+      "B-03",
+      "B-04",
+      "B-05"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-010",
+    "manualNo": "[8]",
+    "name": "사전규격공개 기안문",
+    "stage": "입찰",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-011",
+    "manualNo": "[9]",
+    "name": "교복 학교주관구매 입찰 공고",
+    "stage": "입찰",
+    "type": "공고문",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "B-01",
+      "B-06",
+      "B-07"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-012",
+    "manualNo": "[9-1]",
+    "name": "계약 특수조건",
+    "stage": "입찰",
+    "type": "계약조건",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open",
+      "quote1",
+      "quote2"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-013",
+    "manualNo": "[9-2]",
+    "name": "교복 디자인 및 규격서",
+    "stage": "입찰",
+    "type": "규격서",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [
+      "pdf"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-014",
+    "manualNo": "[9-3]",
+    "name": "제안서 평가항목 및 배점기준",
+    "stage": "평가",
+    "type": "평가기준",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "evaluations"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-015",
+    "manualNo": "[9-4]",
+    "name": "정량적 평가",
+    "stage": "평가",
+    "type": "평가표",
+    "author": "학교·업체공동",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "evaluations"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-016",
+    "manualNo": "[9-5]",
+    "name": "정성적 평가",
+    "stage": "평가",
+    "type": "평가표",
+    "author": "학교·업체공동",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "evaluations"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-017",
+    "manualNo": "[9-6]",
+    "name": "제출서류 자기확인서",
+    "stage": "입찰",
+    "type": "확인서",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-07"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-018",
+    "manualNo": "[9-7]",
+    "name": "정량적 평가 자기 평점표",
+    "stage": "입찰",
+    "type": "자기평가표",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-019",
+    "manualNo": "[9-7]",
+    "name": "입찰참가신청서",
+    "stage": "입찰",
+    "type": "신청서",
+    "author": "업체작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-07",
+      "companies"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": "/templates/F-019_템플릿.hwpx",
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-020",
+    "manualNo": "[9-8]",
+    "name": "입찰 참가 신고서",
+    "stage": "입찰",
+    "type": "신고서",
+    "author": "업체작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-07",
+      "companies"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": "/templates/F-020_템플릿.hwpx",
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-021",
+    "manualNo": "[9-9]",
+    "name": "교복 납품 제안서",
+    "stage": "입찰",
+    "type": "제안서",
+    "author": "업체작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "companies",
+      "items"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": "/templates/F-021_템플릿.hwpx",
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-022",
+    "manualNo": "[9-10]",
+    "name": "교복 납품 실적표",
+    "stage": "입찰",
+    "type": "실적표",
+    "author": "업체작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "companies",
+      "items"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": "/templates/F-022_템플릿.hwpx",
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-023",
+    "manualNo": "[9-11]",
+    "name": "교복 제조 사양서",
+    "stage": "입찰",
+    "type": "규격서",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "companies",
+      "items"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": "/templates/F-023_템플릿.hwpx",
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-024",
+    "manualNo": "[9-12]",
+    "name": "품목별 단가 비율표",
+    "stage": "입찰",
+    "type": "단가표",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "items"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": "/templates/F-024_템플릿.hwpx",
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-025",
+    "manualNo": "[9-14]",
+    "name": "교복 A/S 계획서",
+    "stage": "입찰",
+    "type": "계획서",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": "/templates/F-025_템플릿.hwpx",
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-026",
+    "manualNo": "[9-15]",
+    "name": "소비자 불만 처리 계획",
+    "stage": "입찰",
+    "type": "계획서",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-027",
+    "manualNo": "[9-16]",
+    "name": "위임장",
+    "stage": "입찰",
+    "type": "위임장",
+    "author": "업체작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-07",
+      "companies"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-028",
+    "manualNo": "[9-17]",
+    "name": "서약서",
+    "stage": "입찰",
+    "type": "서약서",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-07",
+      "companies"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-029",
+    "manualNo": "[9-18]",
+    "name": "개인정보제공 동의서",
+    "stage": "입찰",
+    "type": "동의서",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-07",
+      "companies"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": [
+      "동의자 성명·주소·연락처·서명·식별번호"
+    ],
+    "readOnly": false
+  },
+  {
+    "id": "F-030",
+    "manualNo": "[9-19]",
+    "name": "청렴계약 이행서약서",
+    "stage": "입찰",
+    "type": "서약서",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-07",
+      "companies"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-031",
+    "manualNo": "[9-20]",
+    "name": "교복 품목별 금액표",
+    "stage": "입찰",
+    "type": "단가표",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "items"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-032",
+    "manualNo": "[10]",
+    "name": "제안서 접수 결과",
+    "stage": "평가",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-033",
+    "manualNo": "[10-1]",
+    "name": "제안서 접수대장",
+    "stage": "평가",
+    "type": "대장",
+    "author": "학교·업체공동",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-034",
+    "manualNo": "[11]",
+    "name": "제안서 평가위원회 개최",
+    "stage": "평가",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-035",
+    "manualNo": "[12]",
+    "name": "제안서 정량평가 결과",
+    "stage": "평가",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "evaluations"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-036",
+    "manualNo": "[13]",
+    "name": "제안서 평가 결과",
+    "stage": "평가",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "evaluations"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-037",
+    "manualNo": "[13-1]",
+    "name": "평가위원회 참석 등록부",
+    "stage": "평가",
+    "type": "등록부",
+    "author": "학교·업체공동",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "committee"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-038",
+    "manualNo": "[13-2]",
+    "name": "업체 참가 등록부",
+    "stage": "평가",
+    "type": "등록부",
+    "author": "학교·업체공동",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-039",
+    "manualNo": "[13-3]",
+    "name": "업체별 제안서 평가표",
+    "stage": "평가",
+    "type": "평가표",
+    "author": "학교·업체공동",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "evaluations"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-040",
+    "manualNo": "[13-4]",
+    "name": "위원 청렴 및 보안 서약서",
+    "stage": "평가",
+    "type": "서약서",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-07",
+      "committee"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-041",
+    "manualNo": "[14]",
+    "name": "낙찰자 결정",
+    "stage": "계약",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "B-01",
+      "B-03",
+      "B-04",
+      "B-05"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-042",
+    "manualNo": "[15]",
+    "name": "낙찰자 결정 통보",
+    "stage": "계약",
+    "type": "통보문",
+    "author": "학교작성",
+    "contractMethods": [
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-043",
+    "manualNo": "[16]",
+    "name": "계약체결",
+    "stage": "계약",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "B-01",
+      "B-03",
+      "B-04",
+      "B-05"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-044",
+    "manualNo": "[17]",
+    "name": "사전 안내 가정통신문 안내",
+    "stage": "구매",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "B-01",
+      "B-06",
+      "B-07"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-045",
+    "manualNo": "[17-1]",
+    "name": "교복구매 사전 안내 가정통신문",
+    "stage": "구매",
+    "type": "가정통신문",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "B-01",
+      "B-06",
+      "B-07"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-046",
+    "manualNo": "[18]",
+    "name": "수요조사 가정통신문 안내",
+    "stage": "구매",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "B-01",
+      "B-06",
+      "B-07"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-047",
+    "manualNo": "[18-2]",
+    "name": "교복구매 수요조사 가정통신문",
+    "stage": "구매",
+    "type": "가정통신문",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "B-01",
+      "B-06",
+      "B-07"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": [
+      "학생·학부모 성명·연락처·신청 여부·치수·개별 수량"
+    ],
+    "readOnly": false
+  },
+  {
+    "id": "F-048",
+    "manualNo": "[18-3]",
+    "name": "교복 구매 안내(신청 수량 파악)",
+    "stage": "구매",
+    "type": "가정통신문",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04",
+      "B-01",
+      "B-06",
+      "B-07"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-049",
+    "manualNo": "[19]",
+    "name": "만족도 설문조사 실시",
+    "stage": "사후평가",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-050",
+    "manualNo": "[19-1]",
+    "name": "만족도 조사 설문지",
+    "stage": "사후평가",
+    "type": "설문지",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": [
+      "응답자 성명·연락처·개별 응답·소계·총점·평균·자유서술"
+    ],
+    "readOnly": false
+  },
+  {
+    "id": "F-051",
+    "manualNo": "[20]",
+    "name": "만족도 설문조사 결과",
+    "stage": "사후평가",
+    "type": "기안문",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02",
+      "C-05",
+      "C-06",
+      "C-07",
+      "C-08",
+      "D-01",
+      "D-03",
+      "D-04"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-052",
+    "manualNo": "[20-1]",
+    "name": "만족도 조사 설문 결과 서식",
+    "stage": "사후평가",
+    "type": "결과표",
+    "author": "학교작성",
+    "contractMethods": [
+      "quote1",
+      "quote2",
+      "twostep",
+      "open"
+    ],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [
+      "pdf",
+      "hwpx"
+    ],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": false
+  },
+  {
+    "id": "F-053",
+    "manualNo": "[21]",
+    "name": "섬유의 종류",
+    "stage": "참고",
+    "type": "참고자료",
+    "author": "참고자료",
+    "contractMethods": [],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": true
+  },
+  {
+    "id": "F-054",
+    "manualNo": "[22]",
+    "name": "섬유의 특징",
+    "stage": "참고",
+    "type": "참고자료",
+    "author": "참고자료",
+    "contractMethods": [],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": true
+  },
+  {
+    "id": "F-055",
+    "manualNo": "[23]",
+    "name": "품질기준 참고 자료",
+    "stage": "참고",
+    "type": "참고자료",
+    "author": "참고자료",
+    "contractMethods": [],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": true
+  },
+  {
+    "id": "F-056",
+    "manualNo": "[24]",
+    "name": "Q마크 학생복 품질기준",
+    "stage": "참고",
+    "type": "참고자료",
+    "author": "참고자료",
+    "contractMethods": [],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": true
+  },
+  {
+    "id": "F-057",
+    "manualNo": "[25]",
+    "name": "계약 특수조건 고려 사항",
+    "stage": "참고",
+    "type": "참고자료",
+    "author": "참고자료",
+    "contractMethods": [],
+    "requiredFields": [
+      "C-01",
+      "C-02",
+      "D-02"
+    ],
+    "outputModes": [],
+    "hwpxTemplate": null,
+    "protectedNote": null,
+    "readOnly": true
+  }
+]

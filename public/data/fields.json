@@ -1,0 +1,25 @@
+[
+  { "id": "C-01", "group": "공통", "label": "학교명", "type": "text", "required": true },
+  { "id": "C-02", "group": "공통", "label": "학년도", "type": "year", "required": true },
+  { "id": "C-03", "group": "공통", "label": "담당부서", "type": "text", "required": false },
+  { "id": "C-04", "group": "공통", "label": "담당자 직위", "type": "text", "required": false },
+  { "id": "C-05", "group": "공통", "label": "문서 발행일", "type": "date", "required": false },
+  { "id": "C-06", "group": "공통", "label": "문서번호", "type": "text", "required": false },
+  { "id": "C-07", "group": "공통", "label": "교장 성명(결재권자)", "type": "text", "required": false },
+  { "id": "C-08", "group": "공통", "label": "담당자 성명", "type": "text", "required": false },
+
+  { "id": "B-01", "group": "사업", "label": "구매명", "type": "text", "required": true },
+  { "id": "B-02", "group": "사업", "label": "구매 학년", "type": "text", "required": false },
+  { "id": "B-03", "group": "사업", "label": "계약방식", "type": "select", "required": false,
+    "options": ["1인견적 수의계약", "2인견적 수의계약", "2단계 계약(규격·가격 동시)", "일반입찰계약"] },
+  { "id": "B-04", "group": "사업", "label": "기초금액", "type": "currency", "required": false },
+  { "id": "B-05", "group": "사업", "label": "예정수량", "type": "integer", "required": false },
+  { "id": "B-06", "group": "사업", "label": "납품기한", "type": "date", "required": false },
+  { "id": "B-07", "group": "사업", "label": "제출기한", "type": "date", "required": false },
+
+  { "id": "D-01", "group": "문서별", "label": "수신", "type": "text", "required": false },
+  { "id": "D-02", "group": "문서별", "label": "제목", "type": "text", "required": true },
+  { "id": "D-03", "group": "문서별", "label": "관련문서", "type": "text", "required": false },
+  { "id": "D-04", "group": "문서별", "label": "붙임 목록", "type": "textlist", "required": false },
+  { "id": "D-05", "group": "문서별", "label": "안내문 본문", "type": "longtext", "required": false }
+]

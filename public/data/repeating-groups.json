@@ -1,0 +1,41 @@
+[
+  {
+    "id": "items",
+    "label": "품목",
+    "columns": [
+      { "id": "R-04", "label": "품목명", "type": "text", "required": true },
+      { "id": "R-05", "label": "수량", "type": "integer", "required": true },
+      { "id": "R-06", "label": "단가", "type": "currency", "required": true },
+      { "id": "K-01", "label": "금액", "type": "computed", "formula": "수량 × 단가" }
+    ]
+  },
+  {
+    "id": "companies",
+    "label": "업체",
+    "columns": [
+      { "id": "R-03", "label": "업체명", "type": "text", "required": true },
+      { "id": "R-08", "label": "대표자 성명", "type": "text", "required": false },
+      { "id": "R-09", "label": "대표자 연락처", "type": "text", "required": false }
+    ]
+  },
+  {
+    "id": "committee",
+    "label": "위원",
+    "columns": [
+      { "id": "R-01", "label": "구분·직위", "type": "select", "required": true,
+        "options": ["교원위원", "학부모위원", "지역위원", "외부위원", "평가위원", "심사위원"] },
+      { "id": "R-02", "label": "성명", "type": "text", "required": true }
+    ]
+  },
+  {
+    "id": "evaluations",
+    "label": "평가",
+    "columns": [
+      { "id": "EVAL-COMPANY", "label": "업체명", "type": "text", "required": true },
+      { "id": "EVAL-ITEM", "label": "평가항목", "type": "text", "required": false },
+      { "id": "EVAL-MAX", "label": "배점", "type": "integer", "required": false },
+      { "id": "R-07", "label": "점수", "type": "integer", "required": true },
+      { "id": "K-03", "label": "총점", "type": "computed", "formula": "업체별 점수 합계" }
+    ]
+  }
+]
